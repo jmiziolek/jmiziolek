@@ -1,2 +1,2 @@
-### Hi there 👋
+### Hello 👋
 I'm making beautiful software with Vim and Node.js. What's your superpower?
