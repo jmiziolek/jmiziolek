@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm making beautiful software with Vim and Node.js. What's your superpower?
+I'm making beautiful software with [Zed](https://github.com/zed-industries/zed) and Node.js. What's your superpower?
 
 Personal blog [jakubmiziolek.pl](https://jakubmiziolek.pl)
 
