@@ -8,4 +8,5 @@ I usually develop using TypeScript, Node.js, NestJS, Deno, AWS and Supabase 🚀
 Feel free to use my [dotfiles](https://github.com/jmiziolek/dotfiles)
 
 Personal blog 📖 [jakubmiziolek.pl](https://jakubmiziolek.pl)
+
 Woodworking Instagram 🖼️ [@woodflesh](https://www.instagram.com/woodflesh)
