@@ -1,6 +1,11 @@
 ### Hello 👋
-I'm making beautiful software with [Zed](https://github.com/zed-industries/zed) and Node.js. What's your superpower?
+I'm Jakub, Senior Backend Engineer at [🔴 Intent](https://withintent.com/).
 
-Personal blog [jakubmiziolek.pl](https://jakubmiziolek.pl)
+I'm making beautiful software with [Zed](https://zed.dev) What's your superpower?
 
-Woodworking Instagram [@woodflesh](https://www.instagram.com/woodflesh)
+I usually develop using TypeScript, Node.js, NestJS, Deno, AWS and Supabase 🚀
+
+Feel free to use my [dotfiles](https://github.com/jmiziolek/dotfiles)
+
+Personal blog 📖 [jakubmiziolek.pl](https://jakubmiziolek.pl)
+Woodworking Instagram 🖼️ [@woodflesh](https://www.instagram.com/woodflesh)
